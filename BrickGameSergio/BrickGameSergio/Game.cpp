@@ -81,7 +81,7 @@ void startGame() {
 		/*if (cont == 200) {
 			cont = -4;	
 		}*/
-		if (cont == 20) {
+		if (cont == 210) {
 			nivel = nivel +1; 
 			cont = 0;
 		}
