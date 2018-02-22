@@ -72,7 +72,7 @@ void startGame() {
 				}
 			}
 			if (cont >= 12) {
-				running = true;
+				running = false;
 			}
 		}
 		cont++;
